@@ -1,0 +1,2 @@
+C:/Users/DELL/Desktop/JPO_projekt/JPO/oczko_konsola/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Desktop/JPO_projekt/JPO/oczko_konsola/CMakeFiles/ZERO_CHECK.dir
